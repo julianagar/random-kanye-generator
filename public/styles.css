@@ -1,0 +1,35 @@
+* {
+    text-align: center;
+}
+
+#kanye-says {
+    margin-top: 10px;
+}
+
+.generate-button {
+    margin-top: 10px;
+}
+
+@media (max-width: 1020px) {
+    .generate-button {
+        font-size: 4rem;
+        margin-top: 50%;
+    }
+
+    #kanye-says {
+        font-size: 6rem;
+    }
+
+    #quote {
+        font-size: 3rem;
+    }
+
+    #img {
+        width: 750px;
+    }
+
+    #credits {
+        font-size: 2rem;
+    }
+
+}
