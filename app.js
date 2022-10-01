@@ -23,14 +23,12 @@ app.post("/", function(req, res) {
 
       res.render("quote", {response: quote})
 
-      // res.write('<h1>Kanye says </h1>"' + response.quote + '"')
-      // res.write('<br> ')
-
       res.send()
 
     })
   })
 })
+
 app.listen(process.env.PORT || 3000, function() {
   console.log("im here!")
 })

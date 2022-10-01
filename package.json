@@ -3,5 +3,23 @@
     "ejs": "^3.1.8",
     "express": "^4.18.1",
     "request": "^2.88.2"
-  }
+  },
+  "name": "kanye",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianagar/random-kanye-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianagar/random-kanye-generator/issues"
+  },
+  "homepage": "https://github.com/julianagar/random-kanye-generator#readme",
+  "description": ""
 }
